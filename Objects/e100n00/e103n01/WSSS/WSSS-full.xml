@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>WSSS.ac</path>
+
+<animation>
+<name>Day</name>
+<type>material</type>
+    <object-name>block</object-name>
+    <object-name>rect</object-name>
+    <object-name>box</object-name>
+<condition>
+      <less-than-equals>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </less-than-equals>
+</condition>
+<texture>main-texture.png</texture>
+</animation>
+
+<animation>
+<name>Night</name>
+<type>material</type>
+    <object-name>block</object-name>
+    <object-name>rect</object-name>
+    <object-name>box</object-name>
+<condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </greater-than>
+</condition>
+<texture>night-texture.png</texture>
+</animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>block</object-name>
+    <object-name>rect</object-name>
+    <object-name>box</object-name>
+    <condition>
+      <greater-than>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </greater-than>
+    </condition>
+    <emission>
+      <red>   1.0 </red>
+      <green> 1.0 </green>
+      <blue>  1.0 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>block</object-name>
+    <object-name>rect</object-name>
+    <object-name>box</object-name>
+    <condition>
+      <less-than-equals>
+        <property>/sim/time/sun-angle-rad</property>
+        <value>1.57</value>
+      </less-than-equals>
+    </condition>
+    <emission>
+      <red>   0.12 </red>
+      <green> 0.12 </green>
+      <blue>  0.12 </blue>
+    </emission>
+  </animation>
+
+</PropertyList>

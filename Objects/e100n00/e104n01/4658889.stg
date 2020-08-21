@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/vordme_1.xml 104.132589 1.136881 15.77 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 104.132722 1.136656 16.03 180
+OBJECT_SHARED Models/Airport/localizer.xml 104.132722 1.136656 16.03 131.79
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 104.152 1.16167 -0.4 311.97
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 104.15 1.16167 -0.17 182.6

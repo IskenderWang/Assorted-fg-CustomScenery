@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+    <parkingList>
+      <Parking index="0"  type="gate" name="Mini" lat="E27 24.291936"  lon="N89 25.3128654" heading="150.77"  radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="1"  type="gate" name="1"    lat="E27 24.3052242" lon="N89 25.2807192" heading="240.00"  radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="2"  type="gate" name="2"    lat="E27 24.3297996" lon="N89 25.2655182" heading="240.00"  radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="3"  type="gate" name="3"    lat="E27 24.356535"  lon="N89 25.2470682" heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="4"  type="gate" name="4"    lat="E27 24.3838728" lon="N89 25.229601"  heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="5"  type="gate" name="5"    lat="E27 24.4093338" lon="N89 25.2122418" heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="6"  type="gate" name="6"    lat="E27 24.4341444" lon="N89 25.1948526" heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="7"  type="gate" name="6a"   lat="E27 24.4294578" lon="N89 25.1995104" heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="8"  type="gate" name="6b"   lat="E27 24.4377282" lon="N89 25.1942316" heading="-119.51" radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="9"  type="gate" name="7"    lat="E27 24.461559"  lon="N89 25.1747592" heading="-84.65"  radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="10" type="gate" name="7a"   lat="E27 24.4548786" lon="N89 25.17744"   heading="-95.17"  radius="44" pushBackRoute="None" airlineCodes="" />
+      <Parking index="11" type="gate" name="7b"   lat="E27 24.4647438" lon="N89 25.1757552" heading="-76.02"  radius="44" pushBackRoute="None" airlineCodes="" />
+    </parkingList>
+</groundnet>

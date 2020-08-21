@@ -1,0 +1,754 @@
+# tower + fireST
+OBJECT_STATIC VQPR_TOWER.xml                                            89.42162040 27.40450518 2235.0625 300.0
+OBJECT_SHARED Models/Airport/Vehicle/fire-truck.xml                     89.42173934 27.40450186 2235.0253 332.0
+OBJECT_SHARED Models/Airport/Vehicle/fire-truck-muc.xml                 89.42168288 27.40461207 2235.0994 289.9
+
+# admin + Term1 + Term2
+OBJECT_STATIC VQPR_ADMIN.ac                                             89.42224821 27.40430967 2234.7661 031.0
+OBJECT_STATIC VQPR_Terminal.ac                                          89.42077742 27.40531063 2235.8043 030.2
+OBJECT_STATIC VQPR_Building.ac                                          89.42038757 27.40598185 2236.4667 030.2
+
+# hangar 1 2 3
+OBJECT_STATIC VQPR_HANGAR1.xml                                          89.41953283 27.40844525 2237.7843 299.2
+OBJECT_STATIC VQPR_HANGAR2.xml                                          89.41938263 27.40905165 2238.1315 300.2
+OBJECT_STATIC VQPR_BUIL2.ac                                             89.41961660 27.40800339 2237.7186 299.0
+
+# flags and boards
+OBJECT_STATIC VQPR_Flags.xml                                            89.42195702 27.40475661 2235.0943 300
+OBJECT_STATIC VQPR_BOARD.xml                                            89.42140760 27.40481951 2235.4648 80.0
+OBJECT_STATIC VQPR_BOARD_WCA1.xml                                       89.42151739 27.40486095 2235.4522 80.0
+
+
+# apron lights
+# add light pole where needed
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42192099 27.40513961 2235.54 180
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42123999 27.40490880 2235.79   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42094689 27.40538335 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42063609 27.40584288 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42041623 27.40618283 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42009426 27.40669367 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.41982042 27.40712095 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.41940633 27.40775982 2235.54   0
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42142374 27.40607359 2235.54 180
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42081884 27.40701360 2235.54 180
+OBJECT_SHARED Models/Airport/Apronlamp22m180deg.xml                     89.42039403 27.40764209 2235.54 180
+
+OBJECT_SHARED Models/Airport/LIGHTCONE22M_rembrandt.xml                 89.41990376 27.4086154  2237.72   0 # Hangar 1
+OBJECT_SHARED Models/Airport/LIGHTCONE22M_rembrandt.xml                 89.41966428 27.40920420 2238.07   0 # Hangar 2
+
+# antena(s)
+#OBJECT_SHARED Models/Airport/ndb.ac                                     89.415426 27.400342 2502.65 090
+OBJECT_SHARED Models/Airport/appliance_room.xml                         89.41545974 27.40039263 2500.2013 174.9
+OBJECT_SHARED Models/Communications/vhf_direction_finder.xml            89.41542557 27.40034104 2502.4715   0
+OBJECT_SHARED Models/Communications/vhf_antenna_multiband_base_station_sa.xml 89.41545528 27.40034329 2502.1708 180.0
+OBJECT_SHARED Models/Communications/atc_antenna_vhf-uhf-omnidi_sa.xml   89.41537436 27.40032974 2503.5092 0.0
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml              89.41545214 27.40033467 2502.4733 0.0
+
+
+# Apron Ground Facilities
+OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml                     89.42029766 27.40616326 2236.5069 300.0 # parked north T2
+OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml                     89.42027194 27.40619895 2236.5717 304.0 # parked north T2
+OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml                     89.42033966 27.40629741 2236.5830 112.0 # parked north T2
+OBJECT_SHARED Models/Airport/Vehicle/passerelle.xml                     89.42196419 27.40498446 2235.2918 218.1 # parked front Admin
+OBJECT_SHARED Models/Airport/aircraft_stairs.ac                         89.42078350 27.40574283 2236.2057 164.0
+OBJECT_SHARED Models/Airport/aircraft_stairs.ac                         89.42140457 27.40490571 2235.5314 288.0
+OBJECT_SHARED Models/Airport/aircraft_stairs.ac                         89.42207187 27.40486104 2235.3550 120.0
+OBJECT_SHARED Models/Airport/aircraft_stairs.ac                         89.41970047 27.40734990 2237.5270 288.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac                     89.42024584 27.40616126 2236.7238 288.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-GPU.xml                    89.42018474 27.40618414 2236.7845 192.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-GPU.xml                    89.42047738 27.40614118 2236.5411 216.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml            89.42020642 27.40621069 2236.7728 0.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml            89.42000000 27.40694115 2237.1710 120.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml            89.42113457 27.40516640 2235.7639 264.0
+
+# H
+OBJECT_SHARED Models/Airport/STD_HelipadCollar.ac                       89.41983020 27.40910905 2237.8748 356.0
+OBJECT_SHARED Models/Airport/STD_HelipadCollar.ac                       89.41965798 27.40936765 2238.0333 0.0
+OBJECT_SHARED Models/Airport/helipad_circle.xml                         89.41965917 27.40936821 2238.2557 28.0
+OBJECT_SHARED Models/Airport/helipad_circle.xml                         89.41983107 27.40910984 2238.0808 29.1
+
+
+# RWY wigwag
+OBJECT_SHARED Models/Airport/RGL.ac                                     89.42163916 27.40652035 2236.4671 0.0
+OBJECT_SHARED Models/Airport/RGL.ac                                     89.42152424 27.40671117 2236.5811 48.0
+OBJECT_SHARED Models/Airport/RGL.ac                                     89.42204325 27.40589764 2236.0932 48.0
+OBJECT_SHARED Models/Airport/RGL.ac                                     89.42216360 27.40571366 2235.9824 0.0
+
+# static aircrafts
+OBJECT_SHARED Models/Aircraft/dc3_lowpoly.ac                            89.41999698 27.40793297 2237.5229 119.2 # North Apron
+OBJECT_SHARED Models/Aircraft/dhc6_red_lowpoly.ac                       89.42369507 27.40389838 2235.0398 312   # on pad near RWY
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac                      89.42277607 27.40526790 2235.5698 304   # on pad near RWY
+OBJECT_SHARED Models/Aircraft/dhc6_lowpoly.ac                           89.42310204 27.40470308 2235.1541 304   # on pad near RWY
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac                            89.42321682 27.40453185 2235.0322 000   # on pad near RWY
+
+# Veg'table(s)
+
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42129211 27.40436655 2235.0690 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42131543 27.40481697 2235.2748 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42132472 27.40438198 2235.0563 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42133873 27.40429195 2235.0119 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42134996 27.40426951 2234.9955 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42135006 27.40455225 2235.1269 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42135631 27.40439764 2235.0482 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42136172 27.40483800 2235.2692 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42136701 27.40424400 2234.9751 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42137259 27.40431147 2235.0015 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42137601 27.40451539 2235.0962 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42138829 27.40457141 2235.1206 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42139122 27.40441525 2235.0417 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42139478 27.40485670 2235.2662 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42139675 27.40422584 2234.9542 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42140233 27.40447203 2235.0627 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42140238 27.40432796 2234.9949 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42142548 27.40458969 2235.1175 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42142675 27.40443256 2235.0321 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42143042 27.40487635 2235.2642 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42143342 27.40420846 2234.9305 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42143951 27.40434902 2234.9817 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42145505 27.40460562 2235.1155 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42146707 27.40418744 2234.9072 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42146980 27.40489542 2235.2610 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42147168 27.40436401 2234.9785 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42149761 27.40432423 2234.9478 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42150219 27.40416885 2234.8839 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42150288 27.40491201 2235.2580 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42152482 27.40428230 2234.9155 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42153453 27.40415000 2234.8618 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42153587 27.40492396 2235.2532 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42155318 27.40425099 2234.8890 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42156158 27.40488777 2235.2257 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42157117 27.40412990 2234.8372 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42158068 27.40426703 2234.8891 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42158881 27.40484902 2235.1963 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42160604 27.40496764 2235.2634 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42160736 27.40411042 2234.8132 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42161188 27.40480947 2235.1677 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42161471 27.40428574 2234.8886 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42162317 27.40468964 2235.1012 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42163229 27.40492700 2235.2338 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42163657 27.40476939 2235.1386 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42164395 27.40408719 2234.7878 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42165163 27.40470421 2235.0966 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42165277 27.40430575 2234.8876 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42165494 27.40488811 2235.2057 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42166032 27.40473050 2235.1103 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42168079 27.40484770 2235.1767 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42168753 27.40406341 2234.7585 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42169178 27.40432536 2234.8865 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42170552 27.40480860 2235.1489 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42172771 27.40403908 2234.7311 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42172886 27.40434436 2234.8852 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42173057 27.40476931 2235.1208 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42175450 27.40472981 2235.0922 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42176702 27.40436256 2234.8831 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42177249 27.40401583 2234.7016 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42177403 27.40469892 2235.0702 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42178510 27.40468949 2235.0629 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42180551 27.40438455 2234.8831 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42180601 27.40470030 2235.0690 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42181653 27.40398482 2234.6698 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42183152 27.40471249 2235.0760 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42184334 27.40439742 2234.8791 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42185371 27.40396507 2234.6452 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42185649 27.40472506 2235.0829 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42186106 27.40437788 2234.8649 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42187562 27.40456181 2234.9717 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42188012 27.40434775 2234.8448 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42188095 27.40458489 2234.9850 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42188240 27.40473777 2235.0901 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42188687 27.40394449 2234.6223 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42189236 27.40453712 2234.9548 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42190318 27.40431536 2234.8230 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42190566 27.40451465 2234.9397 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42190595 27.40460622 2234.9964 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42191351 27.40475320 2235.0988 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42191679 27.40449652 2234.9271 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42192074 27.40428179 2234.8014 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42192954 27.40391938 2234.5963 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42193178 27.40461788 2235.0038 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42193240 27.40447024 2234.9095 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42193796 27.40512208 2235.3393 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42194130 27.40476730 2235.1070 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42194429 27.40424854 2234.7792 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42194718 27.40444736 2234.8943 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42195823 27.40508798 2235.3118 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42196100 27.40442495 2234.8788 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42196103 27.40463212 2235.0129 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42196905 27.40478042 2235.1142 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42196971 27.40421638 2234.7571 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42197726 27.40439843 2234.8610 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42197807 27.40389233 2234.5722 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42198246 27.40505033 2235.2868 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42198887 27.40464672 2235.0221 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42199075 27.40437531 2234.8457 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42199444 27.40479216 2235.1205 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42199870 27.40417183 2234.7274 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42200337 27.40435413 2234.8313 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42200695 27.40501149 2235.2613 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42201636 27.40466142 2235.0309 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42201941 27.40516341 2235.3836 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42201977 27.40432778 2234.8134 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42202376 27.40480693 2235.1291 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42202660 27.40412464 2234.6967 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42202901 27.40497454 2235.2368 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42203131 27.40385648 2234.5417 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42203393 27.40430473 2234.7982 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42204217 27.40512631 2235.3480 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42204257 27.40467553 2235.0395 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42204489 27.40428508 2234.7853 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42205198 27.40482078 2235.1369 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42205662 27.40493604 2235.2113 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42206116 27.40407560 2234.6637 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42206652 27.40429610 2234.7930 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42206724 27.40508551 2235.3202 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42207407 27.40469050 2235.0489 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42207790 27.40483365 2235.1443 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42207847 27.40489641 2235.1855 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42208209 27.40381089 2234.5074 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42208964 27.40402979 2234.6336 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42209296 27.40504768 2235.2952 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42209916 27.40470398 2235.0570 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42209993 27.40486269 2235.1631 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42210212 27.40484539 2235.1509 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42211559 27.40501075 2235.2711 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42211987 27.40398887 2234.6061 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42212585 27.40375503 2234.4712 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42212879 27.40471756 2235.0656 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42213749 27.40497409 2235.2469 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42215381 27.40393881 2234.5726 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42215904 27.40472789 2235.0725 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42215971 27.40493518 2235.2212 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42217083 27.40370378 2234.4383 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42218506 27.40470720 2235.0614 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42218534 27.40489908 2235.1982 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42219159 27.40388944 2234.5390 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42220033 27.40468260 2235.0465 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42220693 27.40487751 2235.1835 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42221119 27.40365610 2234.4079 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42221725 27.40465483 2235.0293 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42223269 27.40463291 2235.0157 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42223505 27.40382685 2234.4983 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42224165 27.40489580 2235.2064 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42224650 27.40461092 2235.0019 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42224857 27.40360848 2234.3784 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42225912 27.40458805 2234.9877 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42226734 27.40399504 2234.5984 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42227280 27.40478065 2235.1200 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42227340 27.40475397 2235.1058 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42227362 27.40456547 2234.9736 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42227485 27.40491310 2235.2293 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42228128 27.40356926 2234.3536 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42228895 27.40472648 2235.0902 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42228953 27.40453759 2234.9564 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42229398 27.40395962 2234.5755 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42229729 27.40377188 2234.4640 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42229864 27.40479757 2235.1397 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42230510 27.40451321 2234.9409 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42230785 27.40469928 2235.0738 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42230986 27.40493122 2235.2538 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42231005 27.40401348 2234.6139 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42231569 27.40352445 2234.3256 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42231897 27.40449109 2234.9274 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42232112 27.40467787 2235.0664 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42232707 27.40393455 2234.5602 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42233358 27.40481669 2235.1650 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42233509 27.40446413 2234.9107 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42233868 27.40465220 2235.0444 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42234465 27.40494821 2235.2750 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42234714 27.40348570 2234.3012 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42235063 27.40463037 2235.0313 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42235127 27.40375313 2234.4527 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42236007 27.40404011 2234.6356 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42236592 27.40483476 2235.1922 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42236727 27.40460875 2235.0122 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42237413 27.40392029 2234.5526 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42237895 27.40496498 2235.2996 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42238014 27.40344252 2234.2742 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42238156 27.40458306 2235.0056 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42239817 27.40455827 2234.9893 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42239905 27.40374149 2234.4430 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42240049 27.40485230 2235.2160 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42240524 27.40406290 2234.6543 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42241359 27.40498298 2235.3239 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42241369 27.40453542 2234.9729 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42242045 27.40339634 2234.2449 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42242830 27.40451329 2234.9577 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42243684 27.40392474 2234.5593 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42243708 27.40487093 2235.2376 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42243958 27.40449395 2234.9531 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42244423 27.40384027 2234.5053 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42244589 27.40499949 2235.3447 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42245243 27.40335333 2234.2183 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42245254 27.40372994 2234.4376 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42245575 27.40446676 2234.9367 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42245974 27.40408927 2234.6763 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42247317 27.40488911 2235.2639 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42247499 27.40443687 2234.9192 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42247762 27.40501576 2235.3644 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42248702 27.40331389 2234.1969 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42249281 27.40382612 2234.5000 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42249364 27.40394186 2234.5752 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42249391 27.40384289 2234.5107 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42249484 27.40440327 2234.8987 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42250011 27.40371717 2234.4322 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42250138 27.40490433 2235.2882 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42250351 27.40502908 2235.3851 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42250974 27.40411720 2234.6987 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42251484 27.40328022 2234.1789 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42251704 27.40437155 2234.8806 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42252944 27.40504194 2235.4034 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42252998 27.40492013 2235.3055 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42253873 27.40433689 2234.8598 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42254525 27.40397203 2234.6018 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42254711 27.40323948 2234.1572 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42254774 27.40370218 2234.4269 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42254851 27.40413838 2234.7160 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42254980 27.40386170 2234.5292 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42255176 27.40381074 2234.4963 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42255505 27.40505512 2235.4200 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42256172 27.40493499 2235.3246 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42256478 27.40429837 2234.8369 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42257185 27.40321025 2234.1417 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42257292 27.40409841 2234.6924 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42257806 27.40401725 2234.6379 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42257864 27.40405862 2234.6666 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42258019 27.40506732 2235.4358 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42258612 27.40494878 2235.3486 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42258769 27.40368431 2234.4199 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42259068 27.40426024 2234.8137 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42259425 27.40388763 2234.5529 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42259976 27.40317836 2234.1253 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42260162 27.40378559 2234.4863 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42261063 27.40496220 2235.3623 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42261164 27.40384142 2234.5247 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42261355 27.40422393 2234.7892 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42261889 27.40388712 2234.5565 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42261993 27.40365807 2234.4070 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42262398 27.40314884 2234.1097 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42262651 27.40393081 2234.5874 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42263682 27.40497582 2235.3804 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42263762 27.40418853 2234.7737 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42264716 27.40362295 2234.3902 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42265051 27.40311515 2234.0918 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42265891 27.40415608 2234.7531 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42267034 27.40359279 2234.3732 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42267541 27.40412617 2234.7360 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42268229 27.40307560 2234.0708 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42269159 27.40356096 2234.3560 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42269348 27.40409540 2234.7186 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42270802 27.40304287 2234.0534 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42271313 27.40352851 2234.3388 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42271350 27.40405867 2234.6978 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42271534 27.40375859 2234.4884 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42272110 27.40380542 2234.5224 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42272183 27.40371705 2234.4618 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42272749 27.40401766 2234.6720 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42272871 27.40384725 2234.5532 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42273340 27.40301173 2234.0371 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42273686 27.40389194 2234.5859 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42273814 27.40349289 2234.3199 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42273946 27.40397316 2234.6435 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42273979 27.40393209 2234.6146 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42274217 27.40367343 2234.4371 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42275791 27.40298053 2234.0204 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42275936 27.40364284 2234.4214 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42276775 27.40345032 2234.2976 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42277959 27.40360916 2234.4034 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42278239 27.40295219 2234.0056 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42278711 27.40340201 2234.2705 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42280562 27.40357002 2234.3832 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42280774 27.40335306 2234.2432 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42280815 27.40291660 2233.9864 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42281700 27.40331409 2234.2206 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42282168 27.40353977 2234.3664 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42282513 27.40326774 2234.1933 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42283107 27.40321433 2234.1620 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42283570 27.40316457 2234.1328 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42283665 27.40351149 2234.3513 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42283791 27.40288034 2233.9678 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42284645 27.40310450 2234.0984 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42285320 27.40348146 2234.3355 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42285616 27.40303828 2234.0606 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42286331 27.40298699 2234.0317 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42286685 27.40293736 2234.0036 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42287126 27.40288476 2233.9735 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42291196 27.40335327 2234.2642 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42292382 27.40331599 2234.2426 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42293291 27.40327817 2234.2202 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42294203 27.40323138 2234.1922 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42294369 27.40318195 2234.1634 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42295174 27.40312809 2234.1337 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42296200 27.40306860 2234.1008 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42297382 27.40300609 2234.0666 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42298101 27.40295194 2234.0357 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42298633 27.40289901 2234.0051 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42299402 27.40284067 2233.9719 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42300376 27.40277184 2233.9328 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42301829 27.40269202 2233.8871 0.0
+
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42120314 27.40431369 2235.1046 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42117723 27.40434919 2235.1374 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42115378 27.40438407 2235.1682 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42112989 27.40442068 2235.1995 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42110672 27.40445032 2235.2283 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42108779 27.40448327 2235.2544 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42106449 27.40451625 2235.2841 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42103896 27.40455238 2235.3169 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42100816 27.40459598 2235.3565 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42097729 27.40464207 2235.3968 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42095324 27.40467780 2235.4283 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42092918 27.40471100 2235.4585 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42090953 27.40474247 2235.4851 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42088176 27.40478016 2235.5200 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42085664 27.40481484 2235.5517 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42082601 27.40481971 2235.5778 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42079363 27.40480254 2235.6005 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42075362 27.40478285 2235.6303 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42071568 27.40476559 2235.6585 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42068047 27.40474989 2235.6848 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42064303 27.40473295 2235.7126 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42060258 27.40471618 2235.7437 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42055899 27.40470393 2235.7858 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42051007 27.40470636 2235.8401 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42044912 27.40472855 2235.9094 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42117190 27.40433766 2235.1387 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42113774 27.40435553 2235.1733 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42110569 27.40437279 2235.2070 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42107217 27.40439129 2235.2422 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42104057 27.40440771 2235.2753 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42100694 27.40442392 2235.3112 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42097469 27.40444072 2235.3460 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42094153 27.40445810 2235.3816 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42090625 27.40447804 2235.4191 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42090591 27.40447694 2235.4196 0.0
+
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42086962 27.40449724 2235.4582 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42083478 27.40451627 2235.4957 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42080158 27.40453330 2235.5314 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42076606 27.40455202 2235.5696 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42071879 27.40457948 2235.6200 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42067457 27.40460232 2235.6676 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42062828 27.40462869 2235.7168 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42057450 27.40465794 2235.7743 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42052020 27.40468236 2235.8337 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42046287 27.40471141 2235.8957 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42040059 27.40474290 2235.9682 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42041731 27.40475571 2235.9522 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42039021 27.40478627 2235.9911 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42036865 27.40482394 2236.0261 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42033800 27.40487494 2236.0753 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42030999 27.40492139 2236.1203 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42027804 27.40497109 2236.1706 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42024461 27.40502535 2236.2240 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42020900 27.40508583 2236.2813 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42016757 27.40514754 2236.3461 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42013328 27.40521060 2236.4022 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42008978 27.40528240 2236.4724 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42010511 27.40533473 2236.4651 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42015390 27.40535843 2236.4155 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42020117 27.40538499 2236.3706 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42024586 27.40541236 2236.3290 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42030054 27.40543146 2236.2747 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42035390 27.40546071 2236.2258 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42037783 27.40549263 2236.2130 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42035939 27.40476353 2236.0214 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42031743 27.40478539 2236.0775 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42027465 27.40480585 2236.1349 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42023436 27.40482790 2236.1904 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42019839 27.40486128 2236.2431 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42016938 27.40490610 2236.2895 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42014296 27.40495596 2236.3341 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42011913 27.40500561 2236.3756 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42009146 27.40505109 2236.4208 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42006565 27.40510507 2236.4659 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42004122 27.40515377 2236.5084 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42003340 27.40519860 2236.5275 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42003472 27.40525878 2236.5381 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42004507 27.40532221 2236.5376 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42007336 27.40537469 2236.5135 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42012611 27.40539778 2236.4593 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42017425 27.40542037 2236.4117 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42022541 27.40544291 2236.3605 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42027836 27.40546901 2236.3084 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42033255 27.40549282 2236.2569 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42029861 27.40567118 2236.3487 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42032644 27.40562963 2236.3081 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42037608 27.40559321 2236.2486 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42043771 27.40559539 2236.1937 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42049604 27.40558037 2236.1386 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42052337 27.40554233 2236.1014 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42057708 27.40546736 2236.0283 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42055425 27.40549955 2236.0594 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42037264 27.40570898 2236.2920 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42033633 27.40568942 2236.3194 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42010792 27.40558220 2236.5240 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42014499 27.40559950 2236.4879 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42018740 27.40562076 2236.4481 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42023638 27.40564108 2236.4010 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42026549 27.40558908 2236.3548 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42024134 27.40554728 2236.3672 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42019401 27.40552714 2236.4144 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42015537 27.40550703 2236.4537 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42011525 27.40548799 2236.4951 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42006493 27.40546301 2236.5468 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42002453 27.40544499 2236.5905 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.41999357 27.40541435 2236.6235 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.41997467 27.40537873 2236.6414 0.0
+
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42127313 27.40439280 2235.0944 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42125476 27.40441932 2235.1171 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42123228 27.40445357 2235.1457 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42120841 27.40448994 2235.1764 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42118457 27.40453125 2235.2091 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42115162 27.40457864 2235.2499 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42112063 27.40462722 2235.2900 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42108684 27.40468028 2235.3337 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42086561 27.40450096 2235.4624 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42082400 27.40452023 2235.5078 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42078074 27.40454092 2235.5546 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42074088 27.40456284 2235.5973 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42069452 27.40458781 2235.6469 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42063612 27.40461822 2235.7098 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42056990 27.40465316 2235.7811 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42051795 27.40467860 2235.8373 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42047001 27.40470366 2235.8887 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42040932 27.40473705 2235.9566 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42036065 27.40476216 2236.0197 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42029498 27.40479388 2236.1066 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42023471 27.40483235 2236.1911 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42041358 27.40476101 2235.9575 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42038412 27.40479696 2236.0011 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42035923 27.40484249 2236.0420 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42033312 27.40488658 2236.0838 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42030595 27.40493005 2236.1271 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42027804 27.40497558 2236.1715 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42024769 27.40502197 2236.2192 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42021774 27.40506909 2236.2667 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42018115 27.40512689 2236.3245 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42013859 27.40519974 2236.3932 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42009869 27.40527189 2236.4589 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42019374 27.40486548 2236.2501 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42016917 27.40489877 2236.2879 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42014830 27.40493924 2236.3235 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42012466 27.40498514 2236.3639 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42009859 27.40503208 2236.4080 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42007336 27.40508070 2236.4509 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42004599 27.40513561 2236.4982 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42002940 27.40520068 2236.5333 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42003449 27.40526268 2236.5391 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42004068 27.40533243 2236.5452 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42010031 27.40531965 2236.4646 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42013885 27.40534639 2236.4250 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42018606 27.40537044 2236.3798 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42023377 27.40539477 2236.3378 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42027775 27.40541684 2236.2957 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42032486 27.40544099 2236.2507 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42037156 27.40546047 2236.2083 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42038249 27.40549137 2236.2082 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42034634 27.40550498 2236.2476 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42030409 27.40548727 2236.2847 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42025974 27.40546441 2236.3281 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42021543 27.40544488 2236.3723 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42016742 27.40542312 2236.4203 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42012238 27.40540018 2236.4644 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42006172 27.40536724 2236.5263 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42057329 27.40546140 2236.0286 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42054415 27.40551256 2236.0727 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42049559 27.40557724 2236.1376 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42041796 27.40558632 2236.2081 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42036044 27.40559435 2236.2637 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42032209 27.40561991 2236.3088 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42029449 27.40567148 2236.3526 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42033381 27.40569109 2236.3223 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42037134 27.40570658 2236.2923 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42010907 27.40558102 2236.5220 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42014375 27.40559771 2236.4888 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42018951 27.40561971 2236.4454 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42023551 27.40564218 2236.4022 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42025935 27.40559094 2236.3620 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42024865 27.40555435 2236.3617 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42019902 27.40552644 2236.4086 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42014917 27.40550513 2236.4603 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42010695 27.40548526 2236.5038 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42005893 27.40546417 2236.5536 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.42002115 27.40544541 2236.5950 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.41999244 27.40541569 2236.6254 0.0
+OBJECT_SHARED Models/Trees/bougainvillier.ac                            89.41997290 27.40537252 2236.6425 0.0
+
+# Alley South Term1
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42108457 27.40469653 2235.3428 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42130457 27.40480492 2235.2724 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42126292 27.40478205 2235.2842 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42111614 27.40471112 2235.3322 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42115900 27.40473005 2235.3173 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42118549 27.40474171 2235.3082 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42120832 27.40475344 2235.3013 0.0
+
+# East TWR
+OBJECT_SHARED Models/Trees/coniferous-tree.xml                          89.42131138 27.40445331 2235.1018 0.0
+OBJECT_SHARED Models/Trees/coniferous-tree.xml                          89.42142908 27.40427557 2234.9592 0.0
+
+# West Car Park Term2
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42003980 27.40568384 2236.6289 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42006869 27.40563704 2236.5833 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42009437 27.40559108 2236.5418 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.41993898 27.40584257 2236.7896 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.41984411 27.40598815 2236.9389 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.41974357 27.40616175 2237.0999 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.41978523 27.40626027 2237.0694 0.0
+
+# Facade Term2
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42021555 27.40599059 2236.5332 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42030497 27.40584312 2236.4003 0.0
+
+# Green North Admin
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42218058 27.40448240 2234.9170 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42208616 27.40449661 2234.9241 0.0
+
+# Green South Admin
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42251207 27.40404960 2234.6514 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42238594 27.40398506 2234.5986 0.0
+
+# Green Car Parl Entry
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42268508 27.40328726 2234.1949 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42245742 27.40359214 2234.3572 0.0
+
+# Green South Car Park Term 1
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42094311 27.40462960 2235.4227 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42111133 27.40439360 2235.2075 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42105488 27.40447132 2235.2794 0.0
+OBJECT_SHARED Models/Trees/beech33.xml                                  89.42099309 27.40455677 2235.3579 0.0
+
+# Green West Car Park Term 1
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42030249 27.40482952 2236.1087 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42024830 27.40490606 2236.1925 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42018179 27.40502151 2236.3001 0.0
+OBJECT_SHARED Models/Trees/buk1.xml                                     89.42007832 27.40520412 2236.4709 0.0
+
+# from Term2 to Hangar small (south Hangar1)
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac                            89.42017989 27.40609208 2236.6370 28.3
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac                            89.42013167 27.40617176 2236.6740 28.3
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac                            89.42008340 27.40625112 2236.7583 28.3
+OBJECT_SHARED Models/Boundaries/Hedge_2m.ac                             89.42005444 27.40629879 2236.8034 28.3
+OBJECT_SHARED Models/Boundaries/Hedge_2m.ac                             89.42004480 27.40631459 2236.8045 28.3
+OBJECT_SHARED Models/Boundaries/Hedge_2m.ac                             89.42003500 27.40633063 2236.8199 28.3
+OBJECT_SHARED Models/Boundaries/Hedge-10m.ac                            89.42008126 27.40635815 2236.7807 298.3
+OBJECT_SHARED Models/Boundaries/Hedge-10m.ac                            89.42017046 27.40640101 2236.7912 298.3
+OBJECT_SHARED Models/Boundaries/Hedge-2m.ac                             89.42022375 27.40642668 2236.8032 298.3
+OBJECT_SHARED Models/Boundaries/Hedge-2m.ac                             89.42024133 27.40643522 2236.8000 298.3
+
+# between small hangar and Hangar 1
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.42025080 27.40644868 2236.7325 209.9
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.42004824 27.40676038 2236.7290 209.9
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.41984553 27.40707243 2236.7227 209.7
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.41964406 27.40738536 2237.4592 209.7
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_10000_2030_5.ac         89.41944906 27.40768829 2237.4436 209.6
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_20000_2030_5.ac         89.41939873 27.40776656 2237.4433 119.9
+
+# between hangar 1 and 2
+OBJECT_SHARED Models/Boundaries/Automatic_Green_Gate_20m.xml            89.41944207 27.40805054 2237.8431 29.3
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_7500_2030_5.ac          89.41949646 27.40797011 2237.7708 34.3
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_17500_2030_5.ac         89.41931137 27.40877972 2238.1529 29.5
+OBJECT_SHARED Models/Boundaries/Hedge-10m.xml                           89.41936295 27.40861685 2238.0786 300.0
+
+# fencing admin east
+OBJECT_SHARED Models/Boundaries/Gate_4.5m.ac                            89.42246925 27.40439123 2234.8631 300.0
+OBJECT_SHARED Models/Boundaries/Hedge-2m.xml                            89.42241872 27.40436955 2234.8529 301.5
+OBJECT_SHARED Models/Boundaries/Hedge-2m.xml                            89.42247565 27.40439995 2234.8902 301.2
+# fencing admin west
+OBJECT_SHARED Models/Boundaries/Hedge-2m.xml                            89.42204712 27.40417986 2234.7252 300.0
+OBJECT_SHARED Models/Boundaries/Gate_4.5m.ac                            89.42209811 27.40420140 2234.7264 297.3
+OBJECT_SHARED Models/Boundaries/Hedge-2m.xml                            89.42210605 27.40420803 2234.7323 300.0
+OBJECT_SHARED Models/Boundaries/Hedge-2m.xml                            89.42202949 27.40417090 2234.7234 300.0
+
+# fencing small car park at south
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.42294552 27.40325430 2233.6108 118.7
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_7500_2030_5.ac          89.42329947 27.40342848 2233.5877 120.0
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_20000_2030_5.ac         89.42336527 27.40346236 2233.5554 197.9
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_17500_2030_5.ac         89.42330260 27.40363392 2233.5385 197.2
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_40000_2030_5.ac         89.42324990 27.40378452 2233.5345 300.1
+OBJECT_SHARED Models/Boundaries/Cloture_1poteau_10000_2030_5.ac         89.42290082 27.40360274 2233.5282 300.5
+
+# street lights 
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42281365 27.40290576 2234.2190 36.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42247003 27.40332819 2234.5636 36.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42291881 27.40263189 2234.2131 216.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42299026 27.40286391 2234.3311 0.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42254602 27.40307566 2234.4290 216.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42221056 27.40348817 2234.5989 212.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42214625 27.40372399 2234.8204 32.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42191125 27.40381366 2234.8016 240.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42175062 27.40402052 2234.7135 56.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42148056 27.40405580 2235.1899 240.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42136040 27.40424971 2234.9761 28.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42090056 27.40437486 2235.7036 240.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42115169 27.40436355 2235.1847 132.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42086678 27.40479220 2235.5543 212.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42014567 27.40479776 2236.2996 229.5
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41998539 27.40506654 2236.8257 204.6
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42036499 27.40548004 2236.5844 124.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42036189 27.40548420 2236.5905 304.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42049279 27.40470291 2235.8547 248.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42031928 27.40489803 2236.4273 205.7
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42008668 27.40530191 2236.8263 172.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42019335 27.40510052 2236.6434 209.8
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42000471 27.40543138 2236.6129 128.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42053547 27.40552207 2236.3446 28.9
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42037756 27.40572473 2236.5676 29.6
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42008403 27.40561327 2236.5382 207.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42002315 27.40631180 2237.1166 37.4
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42017299 27.40605830 2236.9208 24.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41981910 27.40627593 2237.3839 252.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41981302 27.40605489 2237.2755 208.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41995271 27.40583051 2237.0736 203.9
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41959154 27.40657942 2237.7119 212.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41937062 27.40697471 2238.0165 199.1
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41921715 27.40752453 2238.2928 192.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41910639 27.40814972 2238.5098 189.4
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41904506 27.40859774 2238.7276 190.9
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41898727 27.40908342 2238.8235 182.4
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.41897587 27.40952558 2238.9067 180.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42336121 27.40209239 2234.0859 217.1
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42425600 27.40100828 2233.7268 216.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42294505 27.40320721 2234.1777 0.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42279153 27.40359003 2234.5534 36.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42227355 27.40398160 2234.7493 32.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42255963 27.40412202 2235.0346 212.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42188527 27.40433528 2234.8701 216.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42136833 27.40456582 2235.4114 120.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42156805 27.40425639 2235.2128 300.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42204441 27.40409600 2234.6760 208.0
+OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml                  89.42253011 27.40435353 2234.8705 32.0
+
+# Restaurant West Term 1
+OBJECT_STATIC VQPR_BUIL2.ac                                             89.41999319 27.40494518 2236.5303 204.0 
+
+# Private Building West before APR road entry
+OBJECT_STATIC VQPR_BUIL3.ac                                             89.42302103 27.40214224 2231.4349 214.7 
+
+# Buildings north Restaurant
+OBJECT_SHARED Models/Residential/VQPR_H1NORM.ac                         89.41987094 27.40522868 2236.7708 80.0
+OBJECT_SHARED Models/Residential/VQPR_H1COR.ac                          89.41984349 27.40558581 2236.7771 84.0
+
+# Building by the exit Car PArk Term 1
+OBJECT_SHARED Models/Residential/VQPR_H1LONG.ac                         89.41972977 27.40599558 2236.8162 298.4
+
+# Building out of APT - West Extension zone
+OBJECT_SHARED Models/Residential/VQPR_H1LONG.ac                         89.41994905 27.40661956 2237.0374 300.1
+OBJECT_SHARED Models/Residential/VQPR_H1LONG.ac                         89.41971486 27.40658341 2237.1723 299.2
+OBJECT_SHARED Models/Residential/VQPR_H1COR.ac                          89.41966407 27.40693901 2237.3892 119.7
+OBJECT_SHARED Models/Residential/VQPR_H2DOP.ac                          89.41953964 27.40715534 2237.5413 299.1
+OBJECT_SHARED Models/Residential/VQPR_H1NORM.ac                         89.41937160 27.40749369 2237.7980 276.0
+
+# Last Building North
+OBJECT_SHARED Models/Residential/VQPR_H2DOP.ac                          89.41929327 27.40960835 2238.4473 300.0
+
+# Neighbours and Landmarks
+OBJECT_STATIC VQPR_ENTRY.ac                                             89.43047031 27.3928126 2223.83 208
+OBJECT_STATIC VQPR_WATCHTOWER.ac                                        89.42315819 27.4070718 2240.67 208 
+OBJECT_STATIC VQPR_LOOKOUT.ac                                           89.4212664  27.4039062 2234.96 076
+OBJECT_STATIC VQPR_Mr_Smith.ac                                          89.41516717 27.42099   2300.49 348
+OBJECT_STATIC VQPR_Sang_Choe_Mon.ac                                     89.38936261 27.4562751 2870.9  120
+OBJECT_STATIC PARO_Ta_Dzong.ac                                          89.42513798 27.4285443 2380.92 092
+OBJECT_STATIC PARO_Dzong.xml                                            89.42308087 27.4264941 2285.74 072
+

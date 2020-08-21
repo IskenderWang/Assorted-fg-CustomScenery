@@ -1,0 +1,7 @@
+# osm2city_e150s40_e151s34_5426730
+# do not edit below this line
+# Last Written Fri Jan 17 23:42:08 2020
+#
+BUILDING_LIST e150s40_e151s34_5426730_buildings_shader.txt OSMBuildings 151.62500 -33.31250 11.84
+OBJECT_BUILDING_MESH_ROUGH e150s40_e151s34_5426730city10205.ac 151.55478 -33.27600 13.98 0
+# END osm2city_e150s40_e151s34_5426730

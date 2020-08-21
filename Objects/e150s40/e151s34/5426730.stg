@@ -1,0 +1,15 @@
+# piers_e150s40_e151s34_5426730
+# do not edit below this line
+# Last Written Fri Jan 17 23:42:22 2020
+#
+OBJECT_STATIC e150s40_e151s34_5426730piers0002.ac 151.51074 -33.32992 0.00 0
+OBJECT_STATIC e150s40_e151s34_5426730piers0006.ac 151.51074 -33.25779 0.00 0
+OBJECT_STATIC e150s40_e151s34_5426730piers0106.ac 151.53222 -33.25779 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 151.50203 -33.33532 -0.00 4.27816
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 151.50215 -33.33514 -0.00 30.4504
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 151.54211 -33.25928 -0.03 299.964
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 151.50411 -33.32661 -0.02 4.07818
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 151.54012 -33.26085 -0.03 259.631
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 151.52057 -33.26241 -0.00 300.594
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 151.51917 -33.26166 -0.00 123.429
+# END piers_e150s40_e151s34_5426730

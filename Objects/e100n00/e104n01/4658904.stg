@@ -1,0 +1,26 @@
+OBJECT_SHARED Models/Communications/vordme_1.xml 104.022081 1.415394 0 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.0073633 1.4234333 -0.23 267.21
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.0105633 1.409715 -0.23 33.27
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.0126483 1.403635 -0.19 3.28
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.0176183 1.389165 -0.18 322.83
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.023615 1.3840683 -0.22 293.68
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 104.03248 1.3765183 -0.92 200.94
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0000955 1.4118103 -0.47 56.98
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0023306 1.3925036 -0.07 324.13
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 104.0861717 1.3842867 -0.1 170.91
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 104.0007417 1.422945 -0.37 207.11
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 104.017215 1.4336817 -0.14 42.82
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 104.0392133 1.4424 -0.19 216.43
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 104.0072317 1.41945 -0.3 316.66
+
+# osm2city_WSSS
+# do not edit below this line
+# Last Written Wed May 25 09:23:00 2016
+#
+OBJECT_STATIC WSSScity3524.xml 104.01601 1.41472 -0.03 0
+OBJECT_STATIC lightmap-switch.xml 104.01601 1.41472 -0.03 0
+OBJECT_STATIC WSSScity3623.xml 104.03398 1.39663 -0.07 0
+OBJECT_STATIC WSSScity3624.xml 104.03398 1.41472 -0.00 0
+OBJECT_STATIC WSSScity3723.xml 104.05195 1.39663 7.74 0
+OBJECT_STATIC WSSScity3724.xml 104.05195 1.41472 42.25 0
+# END osm2city_WSSS

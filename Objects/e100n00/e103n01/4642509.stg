@@ -1,0 +1,30 @@
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 103.701465 1.2472049 -0.72 303.06
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 103.6697736 1.2283108 -0.85 336.75
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 103.7218088 1.234168 -0.64 215.49
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 103.7499226 1.2229336 -0.94 176.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.6602455 1.2445248 -0.5 120.65
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.664996 1.234538 -0.65 91.15
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.6775629 1.2037954 -2.32 353.08
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.7017742 1.2226396 -0.39 178.52
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.7171325 1.219287 -0.31 85.73
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.7304483 1.243955 -0.67 261.81
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 103.7347667 1.2132683 -0.12 350.16
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 103.6997567 1.2497583 -0.76 56.93
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 103.7030483 1.2494833 -0.85 159.05
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 103.7395317 1.1946317 -0.32 155.45
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 103.7499383 1.1734367 -2.76 279.67
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 103.6591467 1.1966017 -3.08 18.08
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 103.673947 1.1923212 -2.94 170.75
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 103.695245 1.175995 -2.16 272.31
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 103.7218839 1.2384939 -0.68 7.08
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 103.7307783 1.217455 -0.13 58.15
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 103.74061 1.2476217 -0.44 165.69
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 103.6481673 1.2076386 -3.19 230.23
+# osm2city_WSSS
+# do not edit below this line
+# Last Written Wed May 25 09:23:00 2016
+#
+OBJECT_STATIC WSSScity1914.xml 103.72847 1.23384 -0.49 0
+OBJECT_STATIC lightmap-switch.xml 103.72847 1.23384 -0.49 0
+OBJECT_STATIC WSSScity2014.xml 103.74644 1.23384 -0.00 0
+# END osm2city_WSSS
