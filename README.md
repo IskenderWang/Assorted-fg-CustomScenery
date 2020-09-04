@@ -14,11 +14,22 @@ I do not claim any of this great work as my own. It would be wrong to not give c
 
 * The foundation for the entire pack was legoboyvdlp's [new VATSIM layouts](https://github.com/legoboyvdlp/VATSIM-new-layouts) repo – this is where it all started.
 * SurferTim's [nav data update](https://github.com/SurferTim/navupdate) for certain airports
+* Sydney osm2city+Australian airport package courtesy of [merspieler](https://github.com/merspieler?tab=repositories) and the [Australia scenery project](https://cdn.merspieler.tk/hosting/au-build/) – see [here](https://www.fgau.org/scenery-packages/australia) for more info.
+* osm2city can be downloaded either through TerraSync or via [merspieler's server](https://cdn.merspieler.tk/osm2city/current/).
+
+### Note on Australia
+
+I have already accomplished the work of making the Sydney osm2city compatible with YSSY by deleting just the intruding+duplicate files – the only remaining loose end you should take into account is that although this repo will supply the latest version of the Australian airport package, which includes improved terminal models, it won't override the terminal objects that exist in Terrasync by default and will therefore appear duplicated unless you take care of it yourself. To do so, simply head into the proper directory (Objects/e150s40/e151s34), open up 5426688.stg in a text editor of your choice, and delete what should be the final 3 lines:
+```
+OBJECT_STATIC Terminal1-Main.ac 151.16661255 -33.93675475 53.41 150.5
+OBJECT_STATIC Term1-PierC_02.ac 151.16515164 -33.93970065 17.97 104
+OBJECT_STATIC Terminal1-Pier_B.ac 151.16891414 -33.93722588 10.55 127.3
+```
+Afterwards, it is also safe to delete the corresponding files.
+
 * [Airport layout info](https://github.com/projectindia-FGFS/Airports) provided as part of Project India
 * [Airbase model pack](https://github.com/JMaverick16/AirBase_models-pack) by JMaverick16
 * SH-M's [VOTV](https://github.com/SH-M/VOTV-fg-CustomScenery), [VQPR](https://github.com/SH-M/VQPR-fg-CustomScenery), and [VOBL](https://github.com/SH-M/VOBL-fg-CustomScenery) sceneries
 * Catalanoic's [WSSS](https://drive.google.com/file/d/1Kv5i3A8NV-kvFLiE7w8x_VYikKSqbtFs/view) scenery
-* [ZSPD](https://github.com/20161229a/ZSPD) and [RCSS](https://github.com/20161229a/RCSS) by 20161229a, [RCTP](https://github.com/BAWV12/RCTP) by BAWV12
-* More by BAWV12: [LTAI](https://github.com/BAWV12/LTAI), [EGLL](https://github.com/BAWV12/EGLL), [NZCH](https://github.com/BAWV12/NZCH), [NZWN](https://github.com/BAWV12/NZWN), and [NZAA](https://github.com/BAWV12/NZAA)
-* Sydney osm2city courtesy of [merspieler](https://github.com/merspieler?tab=repositories), as part of the [Australia scenery project](https://cdn.merspieler.tk/hosting/au-build/) – see [here](https://www.fgau.org/scenery-packages/australia) for more info.
-* osm2city can be downloaded either through TerraSync or via [merspieler's server](https://cdn.merspieler.tk/osm2city/current/).
+* BAWV12's [LTAI](https://github.com/BAWV12/LTAI), [EGLL](https://github.com/BAWV12/EGLL), [NZCH](https://github.com/BAWV12/NZCH), [NZWN](https://github.com/BAWV12/NZWN), and [NZAA](https://github.com/BAWV12/NZAA) sceneries
+* [ZSPD](https://github.com/20161229a/ZSPD) by 20161229a
