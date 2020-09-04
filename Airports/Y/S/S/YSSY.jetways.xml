@@ -1,0 +1,1268 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <jetway>
+    <model type="string">generic</model>
+    <gate type="string">30</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93742735</latitude-deg>
+    <longitude-deg type="double">151.1683196</longitude-deg>
+    <elevation-m type="double">-0.008072022467</elevation-m>
+    <heading-deg type="double">48</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">-4</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="1">
+    <model type="string">generic</model>
+    <gate type="string">32</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93802843</latitude-deg>
+    <longitude-deg type="double">151.1685301</longitude-deg>
+    <elevation-m type="double">-0.009555912793</elevation-m>
+    <heading-deg type="double">32</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">2.834711</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="2">
+    <model type="string">generic</model>
+    <gate type="string">34</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93868242</latitude-deg>
+    <longitude-deg type="double">151.1688773</longitude-deg>
+    <elevation-m type="double">-6.500648672</elevation-m>
+    <heading-deg type="double">336</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="3">
+    <model type="string">generic</model>
+    <gate type="string">36</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93931682</latitude-deg>
+    <longitude-deg type="double">151.1692446</longitude-deg>
+    <elevation-m type="double">-0.01717422722</elevation-m>
+    <heading-deg type="double">312</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="4">
+    <model type="string">generic</model>
+    <gate type="string">37</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93945208</latitude-deg>
+    <longitude-deg type="double">151.1694246</longitude-deg>
+    <elevation-m type="double">0.01132117611</elevation-m>
+    <heading-deg type="double">103.9008264</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="5">
+    <model type="string">generic</model>
+    <gate type="string">35</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9387957</latitude-deg>
+    <longitude-deg type="double">151.1694145</longitude-deg>
+    <elevation-m type="double">0.01438027642</elevation-m>
+    <heading-deg type="double">120</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="6">
+    <model type="string">generic</model>
+    <gate type="string">33</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93820119</latitude-deg>
+    <longitude-deg type="double">151.1692906</longitude-deg>
+    <elevation-m type="double">0.01813516621</elevation-m>
+    <heading-deg type="double">160</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="7">
+    <model type="string">generic</model>
+    <gate type="string">31</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93756947</latitude-deg>
+    <longitude-deg type="double">151.1690373</longitude-deg>
+    <elevation-m type="double">-6.447590992</elevation-m>
+    <heading-deg type="double">152</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="8">
+    <model type="string">generic</model>
+    <gate type="string">25</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93644215</latitude-deg>
+    <longitude-deg type="double">151.1702879</longitude-deg>
+    <elevation-m type="double">0.01165873792</elevation-m>
+    <heading-deg type="double">204</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="9">
+    <model type="string">generic</model>
+    <gate type="string">24</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.936509</latitude-deg>
+    <longitude-deg type="double">151.1694305</longitude-deg>
+    <elevation-m type="double">-0.007571011865</elevation-m>
+    <heading-deg type="double">282.809916</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="10">
+    <model type="string">generic</model>
+    <gate type="string">10</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93596591</latitude-deg>
+    <longitude-deg type="double">151.1680256</longitude-deg>
+    <elevation-m type="double">0.00931568897</elevation-m>
+    <heading-deg type="double">240</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="11">
+    <model type="string">generic</model>
+    <gate type="string">9</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93509644</latitude-deg>
+    <longitude-deg type="double">151.1676923</longitude-deg>
+    <elevation-m type="double">0.01946725312</elevation-m>
+    <heading-deg type="double">192</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="12">
+    <model type="string">generic</model>
+    <gate type="string">8</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93431205</latitude-deg>
+    <longitude-deg type="double">151.167495</longitude-deg>
+    <elevation-m type="double">0.02154717125</elevation-m>
+    <heading-deg type="double">200</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="13">
+    <model type="string">generic</model>
+    <gate type="string">51</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93844579</latitude-deg>
+    <longitude-deg type="double">151.1659217</longitude-deg>
+    <elevation-m type="double">-6.591710008</elevation-m>
+    <heading-deg type="double">125.487604</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="14">
+    <model type="string">generic</model>
+    <gate type="string">53</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93907489</latitude-deg>
+    <longitude-deg type="double">151.1661321</longitude-deg>
+    <elevation-m type="double">-6.700879773</elevation-m>
+    <heading-deg type="double">126.18182</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="15">
+    <model type="string">generic</model>
+    <gate type="string">55</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93949487</latitude-deg>
+    <longitude-deg type="double">151.1663771</longitude-deg>
+    <elevation-m type="double">0.01557993933</elevation-m>
+    <heading-deg type="double">106.578512</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="16">
+    <model type="string">generic</model>
+    <gate type="string">57</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93969477</latitude-deg>
+    <longitude-deg type="double">151.166338</longitude-deg>
+    <elevation-m type="double">0.005074432697</elevation-m>
+    <heading-deg type="double">73.22314</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="17">
+    <model type="string">generic</model>
+    <gate type="string">59</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94011871</latitude-deg>
+    <longitude-deg type="double">151.1650796</longitude-deg>
+    <elevation-m type="double">-6.915811186</elevation-m>
+    <heading-deg type="double">128</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="18">
+    <model type="string">generic</model>
+    <gate type="string">60</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94018601</latitude-deg>
+    <longitude-deg type="double">151.1642864</longitude-deg>
+    <elevation-m type="double">0.008636437193</elevation-m>
+    <heading-deg type="double">72</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="19">
+    <model type="string">generic</model>
+    <gate type="string">61</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94021271</latitude-deg>
+    <longitude-deg type="double">151.1641939</longitude-deg>
+    <elevation-m type="double">-0.02384935965</elevation-m>
+    <heading-deg type="double">316</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="20">
+    <model type="string">generic</model>
+    <gate type="string">63</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93983426</latitude-deg>
+    <longitude-deg type="double">151.1641963</longitude-deg>
+    <elevation-m type="double">-6.7454997</elevation-m>
+    <heading-deg type="double">291.3719</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="21">
+    <model type="string">generic</model>
+    <gate type="string">56</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93971379</latitude-deg>
+    <longitude-deg type="double">151.1644463</longitude-deg>
+    <elevation-m type="double">-6.745216364</elevation-m>
+    <heading-deg type="double">240</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="22">
+    <model type="string">generic</model>
+    <gate type="string">54</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93953692</latitude-deg>
+    <longitude-deg type="double">151.1648963</longitude-deg>
+    <elevation-m type="double">0.003071079945</elevation-m>
+    <heading-deg type="double">232</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="23">
+    <model type="string">generic</model>
+    <gate type="string">50</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93843591</latitude-deg>
+    <longitude-deg type="double">151.1654274</longitude-deg>
+    <elevation-m type="double">-0.02035849833</elevation-m>
+    <heading-deg type="double">304</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="24">
+    <model type="string">generic</model>
+    <gate type="string">40</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93639988</latitude-deg>
+    <longitude-deg type="double">151.1794467</longitude-deg>
+    <elevation-m type="double">0.007344327203</elevation-m>
+    <heading-deg type="double">80</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="25">
+    <model type="string">generic</model>
+    <gate type="string">38</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93612701</latitude-deg>
+    <longitude-deg type="double">151.1796122</longitude-deg>
+    <elevation-m type="double">-9.332175239</elevation-m>
+    <heading-deg type="double">96</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="26">
+    <model type="string">generic</model>
+    <gate type="string">36</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93566638</latitude-deg>
+    <longitude-deg type="double">151.179714</longitude-deg>
+    <elevation-m type="double">0.01244609401</elevation-m>
+    <heading-deg type="double">96</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="27">
+    <model type="string">generic</model>
+    <gate type="string">34</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93522183</latitude-deg>
+    <longitude-deg type="double">151.1797945</longitude-deg>
+    <elevation-m type="double">-9.205116472</elevation-m>
+    <heading-deg type="double">104</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="28">
+    <model type="string">generic</model>
+    <gate type="string">32</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93482371</latitude-deg>
+    <longitude-deg type="double">151.1797914</longitude-deg>
+    <elevation-m type="double">0.01324846964</elevation-m>
+    <heading-deg type="double">81.157024</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="29">
+    <model type="string">generic</model>
+    <gate type="string">31</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93465555</latitude-deg>
+    <longitude-deg type="double">151.1795285</longitude-deg>
+    <elevation-m type="double">-0.01602960176</elevation-m>
+    <heading-deg type="double">288</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="30">
+    <model type="string">generic</model>
+    <gate type="string">33</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93504433</latitude-deg>
+    <longitude-deg type="double">151.1793365</longitude-deg>
+    <elevation-m type="double">-0.01766720517</elevation-m>
+    <heading-deg type="double">316</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="31">
+    <model type="string">generic</model>
+    <gate type="string">35</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93564499</latitude-deg>
+    <longitude-deg type="double">151.1793696</longitude-deg>
+    <elevation-m type="double">-10.30846805</elevation-m>
+    <heading-deg type="double">264</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="32">
+    <model type="string">generic</model>
+    <gate type="string">39</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93614854</latitude-deg>
+    <longitude-deg type="double">151.1792595</longitude-deg>
+    <elevation-m type="double">-0.008325498054</elevation-m>
+    <heading-deg type="double">262.247932</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="33">
+    <model type="string">generic</model>
+    <gate type="string">41</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9364967</latitude-deg>
+    <longitude-deg type="double">151.1791892</longitude-deg>
+    <elevation-m type="double">-0.01031668757</elevation-m>
+    <heading-deg type="double">264</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="34">
+    <model type="string">generic</model>
+    <gate type="string">45/A</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93687586</latitude-deg>
+    <longitude-deg type="double">151.1792172</longitude-deg>
+    <elevation-m type="double">-0.008900141765</elevation-m>
+    <heading-deg type="double">12</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="35">
+    <model type="string">generic</model>
+    <gate type="string">44</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93676031</latitude-deg>
+    <longitude-deg type="double">151.1793987</longitude-deg>
+    <elevation-m type="double">0.009353416748</elevation-m>
+    <heading-deg type="double">81.752064</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="36">
+    <model type="string">generic</model>
+    <gate type="string">44</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93684254</latitude-deg>
+    <longitude-deg type="double">151.1793846</longitude-deg>
+    <elevation-m type="double">0.007391096936</elevation-m>
+    <heading-deg type="double">81.421488</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="37">
+    <model type="string">generic</model>
+    <gate type="string">52</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93501366</latitude-deg>
+    <longitude-deg type="double">151.1775087</longitude-deg>
+    <elevation-m type="double">0.01404111633</elevation-m>
+    <heading-deg type="double">120</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">-1</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="38">
+    <model type="string">generic</model>
+    <gate type="string">54</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93540113</latitude-deg>
+    <longitude-deg type="double">151.1774246</longitude-deg>
+    <elevation-m type="double">0.0143103142</elevation-m>
+    <heading-deg type="double">127.933884</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="39">
+    <model type="string">generic</model>
+    <gate type="string">56</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93578807</latitude-deg>
+    <longitude-deg type="double">151.1773311</longitude-deg>
+    <elevation-m type="double">0.01151547762</elevation-m>
+    <heading-deg type="double">112</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="40">
+    <model type="string">generic</model>
+    <gate type="string">57</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93539161</latitude-deg>
+    <longitude-deg type="double">151.1770768</longitude-deg>
+    <elevation-m type="double">-0.01131502344</elevation-m>
+    <heading-deg type="double">340</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="41">
+    <model type="string">generic</model>
+    <gate type="string">55</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9349307</latitude-deg>
+    <longitude-deg type="double">151.1771516</longitude-deg>
+    <elevation-m type="double">-0.0127723635</elevation-m>
+    <heading-deg type="double">344</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="42">
+    <model type="string">generic</model>
+    <gate type="string">53</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93442355</latitude-deg>
+    <longitude-deg type="double">151.1772547</longitude-deg>
+    <elevation-m type="double">-0.01190285119</elevation-m>
+    <heading-deg type="double">344</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="43">
+    <model type="string">generic</model>
+    <gate type="string">49</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93397288</latitude-deg>
+    <longitude-deg type="double">151.1773708</longitude-deg>
+    <elevation-m type="double">-7.767228365</elevation-m>
+    <heading-deg type="double">320</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="44">
+    <model type="string">generic</model>
+    <gate type="string">17</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93293488</latitude-deg>
+    <longitude-deg type="double">151.1773954</longitude-deg>
+    <elevation-m type="double">-6.735216891</elevation-m>
+    <heading-deg type="double">272</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="45">
+    <model type="string">generic</model>
+    <gate type="string">16</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93252608</latitude-deg>
+    <longitude-deg type="double">151.1774181</longitude-deg>
+    <elevation-m type="double">-0.00374345816</elevation-m>
+    <heading-deg type="double">268</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="46">
+    <model type="string">generic</model>
+    <gate type="string">14</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93190629</latitude-deg>
+    <longitude-deg type="double">151.1768215</longitude-deg>
+    <elevation-m type="double">0.002523179542</elevation-m>
+    <heading-deg type="double">21.454544</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="47">
+    <model type="string">generic</model>
+    <gate type="string">12</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93181284</latitude-deg>
+    <longitude-deg type="double">151.1767428</longitude-deg>
+    <elevation-m type="double">-7.298227905</elevation-m>
+    <heading-deg type="double">288</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="48">
+    <model type="string">generic</model>
+    <gate type="string">11</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93166597</latitude-deg>
+    <longitude-deg type="double">151.1768651</longitude-deg>
+    <elevation-m type="double">0.001212888812</elevation-m>
+    <heading-deg type="double">244</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="49">
+    <model type="string">generic</model>
+    <gate type="string">11</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93169745</latitude-deg>
+    <longitude-deg type="double">151.1768556</longitude-deg>
+    <elevation-m type="double">0.000926349925</elevation-m>
+    <heading-deg type="double">244</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="50">
+    <model type="string">generic</model>
+    <gate type="string">10</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9313681</latitude-deg>
+    <longitude-deg type="double">151.1766052</longitude-deg>
+    <elevation-m type="double">0.002416998134</elevation-m>
+    <heading-deg type="double">216</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="51">
+    <model type="string">generic</model>
+    <gate type="string">10</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93140131</latitude-deg>
+    <longitude-deg type="double">151.1765804</longitude-deg>
+    <elevation-m type="double">-5.384961418e-05</elevation-m>
+    <heading-deg type="double">224</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="52">
+    <model type="string">generic</model>
+    <gate type="string">9</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93143285</latitude-deg>
+    <longitude-deg type="double">151.176959</longitude-deg>
+    <elevation-m type="double">-0.0007873737918</elevation-m>
+    <heading-deg type="double">223.603308</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="53">
+    <model type="string">generic</model>
+    <gate type="string">8</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9314346</latitude-deg>
+    <longitude-deg type="double">151.1773558</longitude-deg>
+    <elevation-m type="double">-7.227740336</elevation-m>
+    <heading-deg type="double">228</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="54">
+    <model type="string">generic</model>
+    <gate type="string">7</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93168964</latitude-deg>
+    <longitude-deg type="double">151.1777065</longitude-deg>
+    <elevation-m type="double">-0.0007389238952</elevation-m>
+    <heading-deg type="double">214.876032</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="55">
+    <model type="string">generic</model>
+    <gate type="string">6</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93176336</latitude-deg>
+    <longitude-deg type="double">151.1781543</longitude-deg>
+    <elevation-m type="double">0.00290358373</elevation-m>
+    <heading-deg type="double">192</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="56">
+    <model type="string">generic</model>
+    <gate type="string">5</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.9318168</latitude-deg>
+    <longitude-deg type="double">151.1787055</longitude-deg>
+    <elevation-m type="double">-9.490489977</elevation-m>
+    <heading-deg type="double">196</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="57">
+    <model type="string">generic</model>
+    <gate type="string">4</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93189615</latitude-deg>
+    <longitude-deg type="double">151.1792685</longitude-deg>
+    <elevation-m type="double">-9.5178248</elevation-m>
+    <heading-deg type="double">200</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="58">
+    <model type="string">generic</model>
+    <gate type="string">3</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93198138</latitude-deg>
+    <longitude-deg type="double">151.1798355</longitude-deg>
+    <elevation-m type="double">0.01094420284</elevation-m>
+    <heading-deg type="double">195.537188</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="59">
+    <model type="string">generic</model>
+    <gate type="string">2</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93207889</latitude-deg>
+    <longitude-deg type="double">151.1804078</longitude-deg>
+    <elevation-m type="double">0.002767696119</elevation-m>
+    <heading-deg type="double">216</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="60">
+    <model type="string">generic</model>
+    <gate type="string">1</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93215153</latitude-deg>
+    <longitude-deg type="double">151.1808429</longitude-deg>
+    <elevation-m type="double">-8.912500017</elevation-m>
+    <heading-deg type="double">192</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="61">
+    <model type="string">generic</model>
+    <gate type="string">8</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93429858</latitude-deg>
+    <longitude-deg type="double">151.1675622</longitude-deg>
+    <elevation-m type="double">0.02025941807</elevation-m>
+    <heading-deg type="double">172</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="62">
+    <model type="string">generic</model>
+    <gate type="string">8</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93431054</latitude-deg>
+    <longitude-deg type="double">151.1675283</longitude-deg>
+    <elevation-m type="double">0.02262152063</elevation-m>
+    <heading-deg type="double">184</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="63">
+    <model type="string">generic</model>
+    <gate type="string">9</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93506624</latitude-deg>
+    <longitude-deg type="double">151.167782</longitude-deg>
+    <elevation-m type="double">-6.455764335</elevation-m>
+    <heading-deg type="double">188</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="64">
+    <model type="string">generic</model>
+    <gate type="string">9</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93508183</latitude-deg>
+    <longitude-deg type="double">151.1677467</longitude-deg>
+    <elevation-m type="double">0.01946826534</elevation-m>
+    <heading-deg type="double">192</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="65">
+    <model type="string">generic</model>
+    <gate type="string">10</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93595617</latitude-deg>
+    <longitude-deg type="double">151.1680508</longitude-deg>
+    <elevation-m type="double">-6.616814803</elevation-m>
+    <heading-deg type="double">212</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="66">
+    <model type="string">generic</model>
+    <gate type="string">10</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93595862</latitude-deg>
+    <longitude-deg type="double">151.168087</longitude-deg>
+    <elevation-m type="double">-6.612561687</elevation-m>
+    <heading-deg type="double">172</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="67">
+    <model type="string">generic</model>
+    <gate type="string">24</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93647003</latitude-deg>
+    <longitude-deg type="double">151.1694645</longitude-deg>
+    <elevation-m type="double">-6.465567703</elevation-m>
+    <heading-deg type="double">208</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="68">
+    <model type="string">generic</model>
+    <gate type="string">24</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93648851</latitude-deg>
+    <longitude-deg type="double">151.1694498</longitude-deg>
+    <elevation-m type="double">-6.47643507</elevation-m>
+    <heading-deg type="double">240</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="69">
+    <model type="string">generic</model>
+    <gate type="string">31</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93755308</latitude-deg>
+    <longitude-deg type="double">151.169212</longitude-deg>
+    <elevation-m type="double">-6.438405584</elevation-m>
+    <heading-deg type="double">161.090908</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="70">
+    <model type="string">generic</model>
+    <gate type="string">57</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93985233</latitude-deg>
+    <longitude-deg type="double">151.166469</longitude-deg>
+    <elevation-m type="double">0.01016679134</elevation-m>
+    <heading-deg type="double">88</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="71">
+    <model type="string">generic</model>
+    <gate type="string">57</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93978381</latitude-deg>
+    <longitude-deg type="double">151.1663896</longitude-deg>
+    <elevation-m type="double">0.009176076481</elevation-m>
+    <heading-deg type="double">88</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="72">
+    <model type="string">generic</model>
+    <gate type="string">59</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94011845</latitude-deg>
+    <longitude-deg type="double">151.1650778</longitude-deg>
+    <elevation-m type="double">-6.931977719</elevation-m>
+    <heading-deg type="double">68</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="73">
+    <model type="string">generic</model>
+    <gate type="string">61</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94019255</latitude-deg>
+    <longitude-deg type="double">151.1641763</longitude-deg>
+    <elevation-m type="double">-0.02287397306</elevation-m>
+    <heading-deg type="double">316</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">12</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="74">
+    <model type="string">generic</model>
+    <gate type="string">61</gate>
+    <door type="int">2</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.94017375</latitude-deg>
+    <longitude-deg type="double">151.1641625</longitude-deg>
+    <elevation-m type="double">-0.02420982628</elevation-m>
+    <heading-deg type="double">311.239668</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="75">
+    <model type="string">generic</model>
+    <gate type="string">54</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93950129</latitude-deg>
+    <longitude-deg type="double">151.1648941</longitude-deg>
+    <elevation-m type="double">0.004341516518</elevation-m>
+    <heading-deg type="double">228</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="76">
+    <model type="string">generic</model>
+    <gate type="string">51</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93845469</latitude-deg>
+    <longitude-deg type="double">151.1659436</longitude-deg>
+    <elevation-m type="double">0.0144416484</elevation-m>
+    <heading-deg type="double">110.1487619</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">2</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="77">
+    <model type="string">generic</model>
+    <gate type="string">53</gate>
+    <door type="int">1</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93907552</latitude-deg>
+    <longitude-deg type="double">151.1661796</longitude-deg>
+    <elevation-m type="double">0.01434262277</elevation-m>
+    <heading-deg type="double">112</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+  <jetway n="78">
+    <model type="string">generic</model>
+    <gate type="string">58</gate>
+    <door type="int">0</door>
+    <airline type="string">FGFS</airline>
+    <latitude-deg type="double">-33.93999477</latitude-deg>
+    <longitude-deg type="double">151.1658535</longitude-deg>
+    <elevation-m type="double">0.02134610864</elevation-m>
+    <heading-deg type="double">144</heading-deg>
+    <initial-position>
+      <jetway-extension-m type="double">0</jetway-extension-m>
+      <jetway-heading-deg type="double">0</jetway-heading-deg>
+      <jetway-pitch-deg type="double">0</jetway-pitch-deg>
+      <entrance-heading-deg type="double">0</entrance-heading-deg>
+    </initial-position>
+  </jetway>
+</PropertyList>

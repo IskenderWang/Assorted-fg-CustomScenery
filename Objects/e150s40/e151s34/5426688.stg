@@ -1,3 +1,271 @@
+OBJECT_SHARED Models/Airport/ndb.ac 151.1675 -33.915278 8.78 180
+OBJECT_SHARED Models/Airport/ils.xml 151.170833 -33.932778 4.83 191.96
+OBJECT_SHARED Models/Airport/ils.xml 151.181389 -33.961389 1.54 11.97
+OBJECT_SHARED Models/Airport/ils.xml 151.185944 -33.939608 4.72 105.97
+OBJECT_SHARED Models/Airport/ils.xml 151.190833 -33.954167 2.53 193.35
+OBJECT_SHARED Models/Airport/ils.xml 151.191389 -33.968333 0.86 13.36
+OBJECT_SHARED Models/Communications/vordme_1.xml 151.180833 -33.942778 3.8 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 151.186111 -33.939722 4.72 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 151.190833 -33.954167 2.53 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 151.191389 -33.968333 0.86 180
+OBJECT_SHARED Models/Airport/marker.ac 151.1675 -33.915278 8.78 180
+OBJECT_SHARED Models/Airport/localizer.xml 151.162778 -33.943889 3.4 344.28
+OBJECT_SHARED Models/Airport/localizer.xml 151.171111 -33.9275 4.84 77.85
+OBJECT_SHARED Models/Airport/localizer.xml 151.181667 -33.966667 0.96 257.38
+OBJECT_SHARED Models/Airport/localizer.xml 151.187778 -33.9475 3.58 77.84
+OBJECT_SHARED Models/Airport/localizer.xml 151.191667 -33.93715 6.75 164.13
+OBJECT_SHARED Models/Airport/localizer.xml 151.194444 -33.973333 1.23 257.9
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0578552 -33.9962492 0 276.77
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0585022 -33.9955067 0 276.41
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0672254 -33.9922005 0 137.17
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0685177 -33.9935971 0 267.66
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0703111 -33.9948266 -10.67 237.34
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.0715463 -33.9959253 0 103.94
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.1978826 -33.9580732 0.91 280.92
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 151.2116182 -33.988052 -0.01 153.36
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.0560661 -33.9985378 0 334.46
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.0676411 -33.9948502 0 310.09
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.0759938 -33.9957373 0 233.54
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.0772916 -33.9960297 0 31.85
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.0786927 -33.9956341 0 199.5
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.1483249 -33.9980891 -0.13 322.92
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.1964479 -33.9594687 0 263.12
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.1976673 -33.9584594 0.49 347.1
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.2084112 -33.9823752 -0.05 102.94
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.211133 -33.984467 3.39 112.99
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 151.213544 -33.9862727 -0.57 341.22
+OBJECT_STATIC syd_term1_main.xml 151.16676487 -33.93653757 53.5651 157.7 0.0 -0.0
+OBJECT_STATIC syd_term1_pierb.xml 151.16891894 -33.93701933 10.2392 126.5 0.0 -0.0
+OBJECT_STATIC syd_term1_pierc.xml 151.16528702 -33.93966650 17.9401 106.2 0.0 -0.0
+OBJECT_STATIC syd_term2.xml 151.18126312 -33.93407711 4.6543 260.5 0.0 -0.0
+OBJECT_STATIC syd_term3.xml 151.17876704 -33.93261206 5.2428 89.7 0.0 -0.0
+OBJECT_STATIC yssytower.xml 151.18130272 -33.94422087 47.9863 48.0 0.0 -180.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17970536 -33.93536940 4.8102 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17979163 -33.93492719 4.8722 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17962705 -33.93583519 4.5334 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17947656 -33.93659430 4.6494 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17915988 -33.93599846 4.6915 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17907141 -33.93644721 4.6323 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17900082 -33.93679550 4.5859 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17934173 -33.93696193 4.5941 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17939792 -33.93487877 4.8383 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17925604 -33.93540166 4.7674 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17751324 -33.93507514 4.6683 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17745063 -33.93546106 4.6229 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17736129 -33.93580471 4.5797 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17703982 -33.93540265 4.6032 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17711461 -33.93491817 4.6590 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17723307 -33.93441185 4.7186 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17731844 -33.93395348 4.7700 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17783990 -33.93364363 4.8359 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17776764 -33.93335308 4.8590 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17737374 -33.93290399 4.8735 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17742577 -33.93247222 4.9158 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17723686 -33.93225163 4.9223 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17698971 -33.93204048 4.9246 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17658163 -33.93137135 4.9589 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17685286 -33.93168375 4.9475 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17696901 -33.93140649 4.9747 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17756900 -33.93166557 4.9951 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17735919 -33.93141814 5.0007 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17824714 -33.93172958 5.0436 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17872821 -33.93164177 5.0948 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17931464 -33.93173609 5.1456 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17989602 -33.93183106 5.2026 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.18042844 -33.93191652 5.2603 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.18090389 -33.93199561 5.3161 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16754067 -33.93427055 4.5454 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16770772 -33.93505740 4.3922 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16805731 -33.93590358 4.2404 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16852096 -33.93624785 4.1937 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16940240 -33.93642400 4.1881 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.17029611 -33.93641855 4.2204 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16911104 -33.93754540 4.0031 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16946773 -33.93814685 3.9234 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16962588 -33.93879603 3.8314 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16961563 -33.93944952 3.7301 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16908659 -33.93936864 3.7123 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16871013 -33.93869951 3.7981 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16842603 -33.93806703 3.8871 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16818683 -33.93739627 3.9868 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16606171 -33.93846926 3.6680 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16629005 -33.93912359 3.5634 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16658625 -33.93993499 3.4499 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16637774 -33.93951663 3.5038 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16585934 -33.94001712 3.3795 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16512043 -33.94011547 3.2983 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16431118 -33.94029156 3.1887 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16382540 -33.94034399 3.1269 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16412854 -33.93982435 3.2534 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16445268 -33.93967085 3.3168 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16488250 -33.93947500 3.3910 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16540072 -33.93842366 3.6317 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 151.16437803 -33.93825735 3.5838 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17941813 -33.93678798 4.7976 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17925504 -33.93690264 4.7423 292.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17908018 -33.93686544 4.7341 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17917766 -33.93656921 4.7805 168.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17743260 -33.93543165 4.7711 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17714661 -33.93610128 4.5334 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17720946 -33.93613176 4.5338 172.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17702820 -33.93538536 4.7514 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17738545 -33.93405525 4.9182 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17725507 -33.93279188 5.0217 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17687209 -33.93193480 5.0728 256.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17657528 -33.93140829 5.1071 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17808902 -33.93172548 5.1918 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17916394 -33.93185384 5.2938 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17979185 -33.93513154 4.8421 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17986403 -33.93492303 5.0204 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17984868 -33.93488459 5.0204 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17975328 -33.93543046 4.9584 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17974767 -33.93541169 4.9584 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17971542 -33.93604241 4.7358 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17972297 -33.93601381 4.7400 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17949747 -33.93666383 4.7976 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17950625 -33.93663515 4.7976 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17911762 -33.93690448 4.7423 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17912673 -33.93693264 4.7423 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17912499 -33.93696804 4.7423 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17915965 -33.93659879 4.7805 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17915093 -33.93663495 4.7805 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17919334 -33.93633160 4.7805 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17923843 -33.93570621 4.7317 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17939342 -33.93509832 4.8136 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17934530 -33.93460591 4.8667 84.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17751689 -33.93503785 4.8165 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17736454 -33.93542435 4.7711 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17710708 -33.93617933 4.5221 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17721171 -33.93620431 4.5259 168.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17720085 -33.93617386 4.5286 28.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17711731 -33.93614361 4.5268 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17712356 -33.93531328 4.7514 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17713325 -33.93529308 4.7514 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17727706 -33.93431953 4.8668 20.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17727830 -33.93429131 4.8668 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.17782352 -33.93377557 4.9841 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17779154 -33.93380110 4.9841 343.7 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17729295 -33.93284545 5.0217 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17733976 -33.93255683 5.0640 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17692358 -33.93199687 5.0728 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17670656 -33.93179931 5.0957 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17693435 -33.93155809 5.1229 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17759224 -33.93171284 5.1433 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17753446 -33.93171141 5.1433 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.17862514 -33.93178955 5.2430 324.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Pushback/med2pushback-gen.ac 151.18052611 -33.93202075 5.4085 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/BeltLoader.ac 151.18045156 -33.93203005 5.4085 304.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac 151.17782895 -33.93388382 4.8119 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac 151.17783730 -33.93384515 4.9841 80.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17702204 -33.93605477 4.5309 340.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17701995 -33.93609949 4.5258 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17700605 -33.93617482 4.5165 12.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17700196 -33.93613610 4.5207 3.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17716298 -33.93598628 4.7279 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17716185 -33.93602862 4.5424 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17913605 -33.93640045 4.7805 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17923702 -33.93620522 4.6747 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17926936 -33.93590885 4.8397 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17935268 -33.93555207 4.9156 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17944647 -33.93516441 4.8112 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17740898 -33.93582286 4.7279 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17752622 -33.93538906 4.6584 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17760128 -33.93502330 4.8165 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17950324 -33.93470997 4.9865 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodolly3.ac 151.17919321 -33.93690910 4.7423 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17913409 -33.93698725 4.7423 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17972643 -33.93572722 4.7733 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17965781 -33.93617200 4.7151 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17949159 -33.93644756 4.7976 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17939319 -33.93670289 4.7976 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17973049 -33.93482755 5.0204 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17965594 -33.93542019 4.9584 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodollywuld3.ac 151.17718829 -33.93508245 4.8072 324.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17768639 -33.93388731 4.8043 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot3curve.ac 151.17758800 -33.93231510 5.0640 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot3curve.ac 151.17770947 -33.93240756 4.9418 192.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17760959 -33.93236742 5.0640 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17668355 -33.93184997 5.0728 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17656093 -33.93144810 5.1071 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17783217 -33.93167457 5.0146 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17841188 -33.93176814 5.1918 252.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17947388 -33.93186684 5.2938 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.17927575 -33.93178375 5.2938 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.18010881 -33.93192127 5.3508 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/chariot-ba.ac 151.18008424 -33.93187979 5.3508 80.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17905006 -33.93680588 4.7341 268.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17904540 -33.93682998 4.7341 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17938089 -33.93692028 4.7423 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17935853 -33.93688406 4.7423 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17954853 -33.93620589 4.7015 324.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17954413 -33.93623974 4.6972 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17975785 -33.93532944 4.9584 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.18032819 -33.93453545 4.9699 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.18039174 -33.93451266 4.9819 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17774898 -33.93389356 4.8053 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17732081 -33.93277784 5.0217 192.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs3-lirq.ac 151.17738450 -33.93282418 5.0217 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16764434 -33.93428987 4.6936 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16767247 -33.93436821 4.6936 316.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16823213 -33.93591539 4.3886 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16817615 -33.93593144 4.3886 72.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16952032 -33.93633323 4.3363 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16950089 -33.93639791 4.3363 292.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.17031538 -33.93637040 4.3686 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.17031763 -33.93626556 4.3686 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16763032 -33.93434582 4.6936 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16760174 -33.93428739 4.6936 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16795701 -33.93510954 4.3828 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16786670 -33.93514223 4.5404 264.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16817026 -33.93603131 4.3886 288.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.17024577 -33.93648978 4.3686 288.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16960320 -33.93625347 4.3363 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16782365 -33.93512721 4.5404 231.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16933979 -33.93756164 4.1513 240.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16947835 -33.93821233 4.0716 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16964799 -33.93882704 3.9796 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16637252 -33.93921950 3.7116 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16635093 -33.93930383 3.7116 36.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16610542 -33.93848762 3.8162 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16642505 -33.93993192 3.5981 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16931035 -33.93763059 4.1513 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16948749 -33.93825513 4.0716 192.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16971014 -33.93885954 3.9796 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16956786 -33.93946822 3.8783 244.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16963039 -33.93948254 3.8783 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16912461 -33.93934037 3.8605 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16866971 -33.93870404 3.9463 72.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16848754 -33.93807183 4.0353 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16821900 -33.93744910 4.1350 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16597968 -33.93851679 3.8162 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16626893 -33.93924782 3.7116 16.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16648634 -33.93994924 3.5981 216.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16909531 -33.93933114 3.8605 48.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16873543 -33.93871812 3.9463 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16840609 -33.93804507 4.0353 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16814783 -33.93743062 4.1350 288.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16587584 -33.94005568 3.5277 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16510348 -33.94019871 3.4465 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16429878 -33.94033037 3.3369 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16430613 -33.94030535 3.3369 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16588838 -33.94009920 3.5277 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot2.ac 151.16504111 -33.94019179 3.4465 268.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16423949 -33.94024528 3.3369 8.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16423389 -33.93986650 3.4650 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16433753 -33.93959684 3.4650 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16480491 -33.93937887 3.5392 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/lirq_chariot1.ac 151.16530453 -33.93844698 3.7799 92.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16442292 -33.93983261 3.4650 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16443398 -33.93986399 3.4650 344.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16481201 -33.93935297 3.5392 20.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/belt_loader.ac 151.16525569 -33.93839785 3.7799 96.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_40x40m_tan.xml 151.18156960 -33.93490073 5.1006 260.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/hangar_40x40m_tan.xml 151.18149718 -33.93525394 5.0214 260.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_70x15.ac 151.18320095 -33.93613272 5.1298 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_70x15.ac 151.18304109 -33.93611421 5.1168 172.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Hangar_70x15.ac 151.18288135 -33.93609554 5.0972 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/emirates-hangar.ac 151.18410183 -33.93535602 6.1177 169.6 0.0 -0.0
+
 # piers_e150s40_e151s35_5426680
 # do not edit below this line
 # Last Written Fri Jan 17 07:03:20 2020
